@@ -8,7 +8,7 @@ Use this frontpage/ overview page as navigation pivot <br />
 [Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) will be listed in this frontpage/ overview page <br />
 Each Repository will have its own method to be utilized <br />
 Before using this repository, to have it in full potential and benefit, [you need to create an account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) <br />
-Steps and procedures can be also seen in this video => https://youtu.be/ovCRBERA1NQ <br />
+Steps and procedures can be also seen in this video => [https://youtu.be/ovCRBERA1NQ](https://youtu.be/ovCRBERA1NQ) <br />
 
 As 👨‍🏫 👩‍🏫 **Lecturer**, you can =>
 1. ➕ 💼 **Create Public/ Private Repository** for your Class/ Projects (reference: [How To Create Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository))<br />
@@ -30,4 +30,4 @@ As 👨‍🎓 👩‍🎓 **Student**, you can =>
 Licenses of each repository will be listed inside, each may have limited but some will be an open sourced repository
 
 # Repository List :atom: 🧰
-Can be seen at: https://github.com/orgs/EE-EEPIS/repositories
+Can be seen at: [https://github.com/orgs/EE-EEPIS/repositories]( https://github.com/orgs/EE-EEPIS/repositories)
